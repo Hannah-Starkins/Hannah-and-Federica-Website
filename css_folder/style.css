@@ -1,5 +1,8 @@
 .index {background-color:pink}
-h1 {color: white; text-align: center;}
+h1 {color: yellow; text-align: center;}
+h2 {color: white; text-align: center; font-family: helvetica; font-size:1.5em; font-style:italic;}
+h3 {color: black; text-align: left;font-family: helvetica; font-size:2em; font-style:italic;}
+h4 {color: black; text-align: left;font-family: helvetica; font-size:2em; font-style:italic;}
 body {color: black; font-family: helvetica; font-size:1em }
 
 
@@ -22,9 +25,10 @@ body {color: black; font-family: helvetica; font-size:1em }
 
 
 
-.bengal{background-color:pink}
+.thefamouscurrybazaar{background-color:pink}
 h1 {color: white; text-align: center;}
 body {color: black; font-family: helvetica; font-size:1em }
+img {width: 360px; height: 250px}
 
 
 
