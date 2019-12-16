@@ -69,11 +69,6 @@ body {
    text-align: center;
 }
 
-img {
-
-  display: flex;
-  justify-content: center;
-}
 
 .blueskitchen {
    background-color:pink
@@ -157,7 +152,6 @@ div {
 img {
   border: 1px solid #ddd;
   border-radius: 4px;
-  padding: 5px;
   width: 150px;
 }
 
@@ -254,4 +248,11 @@ body {
 }
 div {
   text-align: center;
+}
+
+.container {
+  display: flex;
+  align-items: stretch;
+  justify-content: center;
+
 }
