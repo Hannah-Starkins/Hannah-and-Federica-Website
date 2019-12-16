@@ -69,6 +69,12 @@ body {
    text-align: center;
 }
 
+img {
+
+  display: flex;
+  justify-content: center;
+}
+
 .blueskitchen {
    background-color:pink
 }
@@ -218,32 +224,6 @@ h2 {
 img {
   width: 350px;
   height: 350px;
-}
-
-.thegoodegg{
-  background-color:pink
-}
-h1 {
-  color: white;
-  text-align: center;
-}
-body {
-  color: black;
-  font-family: helvetica;
-  font-size:1em;
-}
-
-.thejoint{
-  background-color:pink
-}
-h1 {
-  color: white;
-  text-align: center;
-}
-body {
-  color: black;
-  font-family: helvetica;
-  font-size:1em
 }
 
 
