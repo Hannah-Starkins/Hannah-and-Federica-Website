@@ -1,9 +1,13 @@
-.index {
-   background-color:pink
+.index{
+   background-color:pink;
 }
-h1 {color: yellow;
+p2  {
+  color: yellow;
    text-align: center;
-}
+   font-family: helvetica;
+   font-size:2em;
+ }
+
 h2 {
    color: white;
    text-align: center;
@@ -23,11 +27,18 @@ h4 {color: black;
    font-size:2em;
    font-style:italic;
 }
+
+p1 {color: black;
+   text-align: left;
+   font-family: helvetica;
+   font-size:1.5em;
+   font-style:italic;
+}
 body {
    color: black;
    font-family: helvetica;
-   font-size:1em
-}
+   font-size:1em;}
+
 
 .Restaurants {
    background-color:pink
@@ -39,22 +50,22 @@ h1 {
 body {
    color: black;
    font-family: helvetica;
-   font-size:1em
+   font-size:1em;
    align-content: center;
    justify-content: center;
   }
 
-.bars {
+.Bars {
    background-color:pink
 }
 h1 {
    color: white;
-   text-align: center;
+   text-align: left;
 }
 body {
    color: black;
    font-family: helvetica;
-   font-size:1em
+   font-size:1em;
    text-align: center;
 }
 
@@ -100,7 +111,7 @@ body {
    font-style: italic;
    font-size:1em
 }
-h2 {color: blue;
+h2 {color: white;
 font-family: helvetica;
 font-size:1em}
 
