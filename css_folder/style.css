@@ -8,7 +8,7 @@ h2 {
    color: white;
    text-align: center;
    font-family: helvetica;
-   font-size:1.5em;
+   font-size:1em;
    font-style:italic;
 }
 h3 {color: black;
@@ -97,8 +97,12 @@ h1 {
 body {
    color: black;
    font-family: helvetica;
+   font-style: italic;
    font-size:1em
 }
+h2 {color: blue;
+font-family: helvetica;
+font-size:1em}
 
 .thefamouscurrybazaar{
    background-color:pink
