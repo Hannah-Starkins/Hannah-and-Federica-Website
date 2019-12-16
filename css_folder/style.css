@@ -40,7 +40,9 @@ body {
    color: black;
    font-family: helvetica;
    font-size:1em
- }
+   align-content: center;
+   justify-content: center;
+  }
 
 .bars {
    background-color:pink
